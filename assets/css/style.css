@@ -44,6 +44,24 @@ body {
     margin-left: 25px;
 }
 
+.main-content-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.child {
+height: 200px;
+width: 200px;
+background-color: tomato
+
+}
+
+.child-x {
+height: 200px;
+width: 200px;
+background-color: rgb(73, 46, 41)
+}
+
 a {
     color: #ffffff;
     text-decoration: none;
