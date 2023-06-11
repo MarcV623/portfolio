@@ -62,7 +62,9 @@ body {
 .content-container {
     background-color: burlywood;
     flex-grow: 1;
+    padding: 25px;
     height: 300px;
+    flex-basis: 0;
 }
 
 a {
@@ -71,7 +73,7 @@ a {
 }
 
 p {
-    font-size: 16px;
+    font-size: 24px;
 }
 
 .hero {
