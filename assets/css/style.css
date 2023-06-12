@@ -67,6 +67,31 @@ body {
     flex-basis: 0;
 }
 
+#first-project-section {
+    background-image: url('../images/coding3.jpeg');
+    background-size: cover;
+}
+
+#second-project-section{
+    background-image: url('../images/better-programmer.webp');
+    background-size:cover ;
+}
+
+#third-project-section{
+    background-image: url('../images/code.jpeg');
+    background-size:cover ;
+}
+
+#fourth-project-section{
+    background-image: url('../images/software-developement.webp');
+    background-size:cover ;
+}
+
+#fifth-project-section{
+    background-image: url('../images/computer_programming.jpeg');
+    background-size:cover ;
+}
+
 a {
     color: #ffffff;
     text-decoration: none;
