@@ -67,9 +67,17 @@ body {
     flex-basis: 0;
 }
 
+.project-container{
+    border: solid tomato 1px;
+}
+
 #first-project-section {
     background-image: url('../images/coding3.jpeg');
     background-size: cover;
+}
+
+.project-label {
+background-color: tomato;
 }
 
 #second-project-section{
